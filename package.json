@@ -1,0 +1,30 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Convert markdown document with style sheet into formatted documents: pdf - docx - html - rtf ",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently npm:watch-*",
+    "watch-liveServer": "live-server ./output/resume.html",
+    "watch-md": "nodemon --exec \"docker-compose up -d\" --watch \"./markdown/resume.md\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomrule007/pandoc_resume.git"
+  },
+  "keywords": [
+    "resume",
+    "pandoc"
+  ],
+  "bugs": {
+    "url": "https://github.com/tomrule007/pandoc_resume/issues"
+  },
+  "homepage": "https://github.com/tomrule007/pandoc_resume#readme",
+  "devDependencies": {
+    "concurrently": "^5.3.0",
+    "live-server": "^1.2.1",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {}
+}

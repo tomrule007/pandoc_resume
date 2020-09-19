@@ -2,3 +2,4 @@
 *.swo
 *.swp
 output/
+/node_modules/
