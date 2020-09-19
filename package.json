@@ -6,7 +6,7 @@
   "scripts": {
     "start": "concurrently npm:watch-*",
     "watch-liveServer": "live-server ./output/resume.html",
-    "watch-md": "nodemon --exec \"docker-compose up -d\" --watch \"./markdown/resume.md\"",
+    "watch-md": "nodemon -e md,tex,css --watch \"markdown\" --watch \"styles\" --exec \"docker-compose up -d\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
