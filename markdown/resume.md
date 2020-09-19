@@ -1,100 +1,80 @@
-Johnny Coder
+Thomas J. Herzog
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> SKILLS
+> **Frontend:** Javascript (ES6), HTML, CSS, React, Redux **Backend:** Node, Express,
+Knex, PostgreSQL **Tools:** Git, Github, Netlify, NPM, Yarn, Webpack, Eslint
 
 ----
 
-Education
+Education and Certificates
 ---------
+2020
+:   **Certificate of Completion**; The Complete Web Developer in 2020: Zero to Mastery online course.
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2008-2011
+:   **BSc, Electrical Engineering**; San Jose State University (San Jose, CA)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+    *Dean's Scholar: Spring 2010*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+2019 - Present
+:    **Produce Lead - New Seasons Market** (Portland, OR)
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+    * Planning and assigning work of up to three department clerks.
+    * Training staff and overseeing their productivity, ensuring quality standards are met
 
-* First item
+2018 - 2019
+:    **Produce Clerk - New Seasons Market** (Portland, OR)
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+    * Provided service based on customer needs while managing time to ensure all stocking and cleaning tasks are completed.
+    * Handled difficult customer situations and seeked solutions to delight the
+customer.
 
-**That Other Job You Had**
+2012 - 2018
+:    **Owner / Operator - Stone Meal Farm** (Santa Cruz, CA)
 
-Also with a short description.
+    * Sole proprietor of Organic Farm focused on biological regenerative practices to sequester carbon and reduce greenhouse gasses.
+    * Established direct market business relationships with local market associations and restaurants. Allowing maximum control over product production while earning the highest per-unit returns.
+    * Designed irrigation systems for steady state pump operation to maximise the life and value of the equipment.
+    * Forecasted demand and created planting schedules to provide steady supply.
+    * Maintained payroll and business expenses to track cash flow and monitor true profitability on a per crop basis.
 
-Technical Experience
+Projects
 --------------------
+SPA/PWA
+:   Orderguide - A fully responsive single page PWA built to convert an excel spreadsheet into a searchable web based table display.\
+JS • HTML • CSS • React/Redux/RTK • Material UI\
+[Live Demo](https://orderguide.netlify.app/) • [Github Source](https://github.com/tomrule007/orderguide)
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Chrome Extension
+:   Highlight Active Row - A tool to enhance visibility of a selected table row. In effect
+speeding up the entry process and greatly reducing errors that lead to lost
+profitability.\
+*JS • HTML • CSS •*\
+[Github Source](github.com/tomrule007/Highlight-Active-Row)
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Full Stack SPA
+:    Face Detector
+A website application that leverages a 3rd party machine learning / artificial
+intelligence API to detect faces in user provided images. The user must
+register/login to use the app which also tracks the users total image count.\
+*JavaScript • HTML • CSS • React • Redux • tachyons • Node • Express • Knex • PostgreSQL*\
+[Live Demo](face-boxer-frontend.herokuapp.com/) • [Github Source (frontend)](github.com/tomrule007/face-boxer) • [Github Source (backend)](github.com/tomrule007/facerecognitionbrain)
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
+Activities and interest
 ----------------------------------------
 
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+> When I am not coding I enjoy gardening, cooking and reading books. I enjoy learning about the newest tech tools as well as methods of improving performance through deliberate practice and mindfulness. My motto is "Leave everything in better condition than you found it." and "Never stop learning!".
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <thomasJherzog@gmail.com> • (408) 476 1944 • Portland, OR\
+> [linkedin.com/in/thomasjherzog](linkedin.com/in/thomasjherzog)\
+> [thomasJHerzog.com](www.thomasJHerzog.com)\
+
