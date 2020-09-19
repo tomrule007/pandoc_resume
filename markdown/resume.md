@@ -1,11 +1,9 @@
 Thomas J. Herzog
 ============
-----
 
 > • Javascript (ES6) • HTML • CSS • React • Redux • Node • Express •
 Knex • PostgreSQL • Git • Github • Netlify • NPM • Yarn • Webpack • Eslint •
 
-----
 
 Education and Certificates
 ---------
@@ -34,7 +32,7 @@ Full Stack SPA
 *• JavaScript • HTML • CSS • React • Redux • Node • Express • Knex • PostgreSQL •* [Live Demo](face-boxer-frontend.herokuapp.com/) • [Source (frontend)](github.com/tomrule007/face-boxer) • [Source (backend)](github.com/tomrule007/facerecognitionbrain)
 
 NPM Package
-:   PDF Template Parse: A JavaScript frontend cross-browser compatible 'PDF parser w/ template engine' to convert pdf documents into organized data objects. Can extract values or table data without requiring a backend.\
+:   PDF Template Parse: A JavaScript frontend cross-browser compatible 'PDF parser w/ template engine' to convert pdf documents into organized data objects.\
 *• JavaScript •* [NPM Package](https://www.npmjs.com/package/pdf-template-parse) • [Source](https://github.com/tomrule007/pdf-template-parse)
 
 
