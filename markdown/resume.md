@@ -1,8 +1,12 @@
 Thomas J. Herzog
 ============
 
+---
+
 > • Javascript (ES6) • HTML • CSS • React • Redux • Node • Express •
 Knex • PostgreSQL • Git • Github • Netlify • NPM • Yarn • Webpack • Eslint •
+
+---
 
 
 Education and Certificates
@@ -24,7 +28,7 @@ SPA/PWA
 Chrome Extension
 :   Highlight Active Row - A tool to enhance visibility of a selected table row. In effect
 speeding up the entry process and greatly reducing errors that lead to lost
-profitability.\
+profitability.
 *• JavaScript • HTML • CSS •* [Chrome Store](https://chrome.google.com/webstore/detail/highlight-active-row/dcbeiccbdljdceifakkgndpemfaoeaip) • [Source](github.com/tomrule007/Highlight-Active-Row)
 
 Full Stack SPA
