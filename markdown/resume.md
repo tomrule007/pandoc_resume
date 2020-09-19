@@ -1,5 +1,11 @@
 Thomas J. Herzog
 ============
+----
+
+> • Javascript (ES6) • HTML • CSS • React • Redux • Node • Express •
+Knex • PostgreSQL • Git • Github • Netlify • NPM • Yarn • Webpack • Eslint •
+
+----
 
 Education and Certificates
 ---------
@@ -46,11 +52,6 @@ Provided service based on customer needs while ensure all tasks get done on time
 2012 - 2018
 :    **Owner / Operator - Stone Meal Farm** (Santa Cruz, CA)\
 Sole proprietor of Organic specialty crop farm focused on biological regenerative practices to sequester carbon and reduce greenhouse gasses.
-
-Activities and interest
-----------------------------------------
-
-> When I am not coding I enjoy gardening, cooking and reading books. I enjoy learning about the newest tech tools as well as methods of improving performance through deliberate practice and mindfulness. 
 
 ----
 
