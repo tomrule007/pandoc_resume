@@ -53,7 +53,7 @@ Provided service based on customer needs and complete tasks in a timely manner.
 
 2012 - 2018
 :    **Owner / Operator - Stone Meal Farm** (Santa Cruz, CA)\
-Sole Proprietor of organic specialty crop farm focused on biological regenerative practices to sequester carbon and reduce greenhouse gasses.
+Sole Proprietor of organic specialty crop farm focused on biological regenerative practices to sequester carbon and reduce greenhouse gases.
 
 ----
 
