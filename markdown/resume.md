@@ -3,8 +3,8 @@ Thomas J. Herzog
 
 ---
 
-> • Javascript (ES6) • HTML • CSS • React • Redux • Node • Express •
-Knex • PostgreSQL • Git • Github • Netlify • NPM • Yarn • Webpack • Eslint •
+> • Javascript (ES6) • HTML • CSS • React • Redux • Jest • Node • Express •
+Knex • PostgreSQL • Git • Github • Netlify • Docker • NPM • Yarn • Babel • Webpack • Eslint •
 
 ---
 
@@ -29,11 +29,11 @@ Chrome Extension
 :   Highlight Active Row - A tool to enhance visibility of a selected table row. In effect
 speeding up the entry process and greatly reducing errors that lead to lost
 profitability.
-*• JavaScript • HTML • CSS •* [Chrome Store](https://chrome.google.com/webstore/detail/highlight-active-row/dcbeiccbdljdceifakkgndpemfaoeaip) • [Source](github.com/tomrule007/Highlight-Active-Row)
+*• JavaScript • HTML • CSS •* [Chrome Store](https://chrome.google.com/webstore/detail/highlight-active-row/dcbeiccbdljdceifakkgndpemfaoeaip) • [Source](https://github.com/tomrule007/Highlight-Active-Row)
 
 Full Stack SPA
 :    Image Face Detector - A website application that leverages a 3rd party machine learning / artificial intelligence API to detect faces in user provided images.\
-*• JavaScript • HTML • CSS • React • Redux • Node • Express • Knex • PostgreSQL •* [Live Demo](face-boxer-frontend.herokuapp.com/) • [Source (frontend)](github.com/tomrule007/face-boxer) • [Source (backend)](github.com/tomrule007/facerecognitionbrain)
+*• JavaScript • HTML • CSS • React • Redux • Node • Express • Knex • PostgreSQL •* [Live Demo](https://face-boxer-frontend.herokuapp.com/) • [Source (frontend)](https://github.com/tomrule007/face-boxer) • [Source (backend)](https://github.com/tomrule007/facerecognitionbrain)
 
 NPM Package
 :   PDF Template Parse: A JavaScript frontend cross-browser compatible "PDF parser w/ template engine" to convert pdf documents into organized data objects.\
