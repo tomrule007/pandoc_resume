@@ -58,6 +58,6 @@ Sole Proprietor of organic specialty crop farm focused on biological regenerativ
 ----
 
 > <thomasJherzog@gmail.com> • (408) 476 1944 • Portland, OR\
-> [linkedin.com/in/thomasjherzog](linkedin.com/in/thomasjherzog)\
+> [linkedin.com/in/thomasjherzog](https://linkedin.com/in/thomasjherzog)\
 > [www.thomasJHerzog.com](www.thomasJHerzog.com)
 
