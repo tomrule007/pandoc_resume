@@ -33,7 +33,7 @@ profitability.
 
 Full Stack SPA
 :    Image Face Detector - A website application that leverages a 3rd party machine learning / artificial intelligence API to detect faces in user provided images.\
-*• JavaScript • HTML • CSS • React • Redux • Node • Express • Knex • PostgreSQL •* [Live Demo](https://face-boxer-frontend.herokuapp.com/) • [Source (frontend)](https://github.com/tomrule007/face-boxer) • [Source (backend)](https://github.com/tomrule007/facerecognitionbrain)
+*• JavaScript • HTML • CSS • React • Redux • Node • Express • Knex • PostgreSQL •* [Live Demo](https://face-boxer-frontend.herokuapp.com/) • [Source (frontend)](https://github.com/tomrule007/facerecognitionbrain) • [Source (backend)](https://github.com/tomrule007/face-boxer)
 
 NPM Package
 :   PDF Template Parse: A JavaScript frontend cross-browser compatible "PDF parser w/ template engine" to convert pdf documents into organized data objects.\
